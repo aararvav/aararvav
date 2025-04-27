@@ -53,7 +53,7 @@
 
 ###
 
-<img src="https://github.com/aararvav/aararvav/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/aararvav/aararvav/output/snake.svg" alt="Snake animation" />
 
 ###
 
